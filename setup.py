@@ -18,9 +18,9 @@ setup(
         "seaborn>=0.11.0",
         "scipy>=1.7.0"
     ],
-    license="MIT",
     classifiers=[
         'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
