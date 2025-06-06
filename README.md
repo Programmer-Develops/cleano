@@ -1,3 +1,4 @@
+[![PyPI Downloads](https://static.pepy.tech/badge/cleano)](https://pepy.tech/projects/cleano)
 # Cleano
 
 Cleano is a Python package designed to simplify the process of data cleaning and preprocessing. It provides a set of tools that help users efficiently clean, transform, and prepare their data for analysis.
